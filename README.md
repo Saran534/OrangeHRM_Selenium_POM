@@ -1,9 +1,15 @@
+# OrangeHRM Selenium Automation Project
+
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
 ![TestNG](https://img.shields.io/badge/TestNG-Framework-orange)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
-# OrangeHRM Selenium Automation Project
 
+## 🔗 Demo Application URL
+🔗 This Selenium TestNG automation framework tests the OrangeHRM **demo site**:  
+https://opensource-demo.orangehrmlive.com/
+
+## 📘 Project Description
 This is a Selenium WebDriver automation framework for the OrangeHRM application using the Page Object Model (POM) in Java with TestNG and Maven.
 
 ## 🔧 Project Structure
